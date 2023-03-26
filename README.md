@@ -46,6 +46,26 @@ Fichier delete.php
 ![image](https://user-images.githubusercontent.com/111537634/227776738-dcbd9cb7-7188-474a-8112-789c130bceba.png)
 ![image](https://user-images.githubusercontent.com/111537634/227776791-b04a4e14-727d-469e-a2db-22120d6ac09b.png)
 
+#POSTMAN
+Structure de la table
+![EmploiCV](https://user-images.githubusercontent.com/111537634/227801337-7b29ebdb-1b28-48d4-9313-e34e602b9dc7.PNG)
+
+<li>GET all</li>
+![All1](https://user-images.githubusercontent.com/111537634/227801381-2e97cce3-183b-46f2-8cc2-ee2cfc7afb30.PNG)
+![image](https://user-images.githubusercontent.com/111537634/227801498-66d73fa2-1d24-4bbc-bb58-6e62e1598c4f.png)
+
+<li>GET FindById</li>
+![FindByID](https://user-images.githubusercontent.com/111537634/227801545-6cc20782-72e8-4bdc-90f4-2ba94a382dd5.PNG)
+![image](https://user-images.githubusercontent.com/111537634/227801608-5aa76088-6e02-46d8-a6cf-13b0627626ff.png)
+
+<li>GET FindByEmailAndAdress</li>
+![FindByEmail Adress](https://user-images.githubusercontent.com/111537634/227801661-19e1fa48-acd4-4337-af1a-ba6166fcc931.PNG)
+![image](https://user-images.githubusercontent.com/111537634/227801730-f9200bd7-8f3f-40a7-a4fe-e457bc186437.png)
+
+<li>GET Login</li>
+![Login3](https://user-images.githubusercontent.com/111537634/227801786-36bfcd7f-6b71-4bb1-b679-8f4b54d7f130.PNG)
+![Login2](https://user-images.githubusercontent.com/111537634/227801808-4178a335-ad73-4d16-89b4-c664f9ee6296.PNG)
+
 
 
 
