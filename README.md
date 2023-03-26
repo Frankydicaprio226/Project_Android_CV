@@ -53,12 +53,15 @@ Structure de la table
 ![EmploiCV](https://user-images.githubusercontent.com/111537634/227801337-7b29ebdb-1b28-48d4-9313-e34e602b9dc7.PNG)
 
 <li>GET all</li>
-![All1](https://user-images.githubusercontent.com/111537634/227801381-2e97cce3-183b-46f2-8cc2-ee2cfc7afb30.PNG)
-![image](https://user-images.githubusercontent.com/111537634/227801498-66d73fa2-1d24-4bbc-bb58-6e62e1598c4f.png)
+![All1](https://user-images.githubusercontent.com/111537634/227802517-4d173fa8-c6d1-4823-94d0-4408eeaf2e47.PNG)
+
+
 
 <li>GET FindById</li>
-![FindByID](https://user-images.githubusercontent.com/111537634/227801545-6cc20782-72e8-4bdc-90f4-2ba94a382dd5.PNG)
-![image](https://user-images.githubusercontent.com/111537634/227801608-5aa76088-6e02-46d8-a6cf-13b0627626ff.png)
+![FindByID](https://user-images.githubusercontent.com/111537634/227802577-1bee1f21-eb96-400a-98de-188351ba6057.PNG)
+
+![image](https://user-images.githubusercontent.com/111537634/227802615-cdd2cf21-38b5-439e-bb66-082776972ebd.png)
+
 
 <li>GET FindByEmailAndAdress</li>
 ![FindByEmail Adress](https://user-images.githubusercontent.com/111537634/227801661-19e1fa48-acd4-4337-af1a-ba6166fcc931.PNG)
