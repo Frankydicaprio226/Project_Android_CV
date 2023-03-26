@@ -10,6 +10,8 @@ Première partie: la partie Back-End avec Spring Boot et IntelliJ
 Notre base de données phpMyAdmin est nommée emploicvdb et est généré par Spring Boot
 Elle comporte une table nommée appcv
 ![BD](https://user-images.githubusercontent.com/111537634/227775382-93fbcb7e-af2e-4c24-90d3-7217a83a1c0b.PNG)
+Structure de la table
+![image](https://user-images.githubusercontent.com/111537634/227802161-17d332ec-802c-40da-9bd5-c65a33ada69d.png)
 
 
 cette table est coomposée des élements colonnes first_name, last_name,
@@ -46,7 +48,7 @@ Fichier delete.php
 ![image](https://user-images.githubusercontent.com/111537634/227776738-dcbd9cb7-7188-474a-8112-789c130bceba.png)
 ![image](https://user-images.githubusercontent.com/111537634/227776791-b04a4e14-727d-469e-a2db-22120d6ac09b.png)
 
-#POSTMAN
+POSTMAN
 Structure de la table
 ![EmploiCV](https://user-images.githubusercontent.com/111537634/227801337-7b29ebdb-1b28-48d4-9313-e34e602b9dc7.PNG)
 
@@ -66,7 +68,8 @@ Structure de la table
 ![Login3](https://user-images.githubusercontent.com/111537634/227801786-36bfcd7f-6b71-4bb1-b679-8f4b54d7f130.PNG)
 ![Login2](https://user-images.githubusercontent.com/111537634/227801808-4178a335-ad73-4d16-89b4-c664f9ee6296.PNG)
 
-
+Swager UI
+![image](https://user-images.githubusercontent.com/111537634/227802291-8c2ef091-625e-4642-9ac6-41c533f195c1.png)
 
 
 
