@@ -8,10 +8,13 @@ Le projet sera subdivisé en 2 parties:
 Première partie: la partie Back-End avec Spring Boot et IntelliJ
 
 Notre base de données phpMyAdmin est nommée emploicvdb et est généré par Spring Boot
+
 Elle comporte une table nommée appcv
 ![BD](https://user-images.githubusercontent.com/111537634/227775382-93fbcb7e-af2e-4c24-90d3-7217a83a1c0b.PNG)
+
 Structure de la table
-![image](https://user-images.githubusercontent.com/111537634/227802161-17d332ec-802c-40da-9bd5-c65a33ada69d.png)
+![image](https://user-images.githubusercontent.com/111537634/228021399-fb55586a-1e52-451f-b612-b1c69d522f9b.png)
+
 
 
 cette table est coomposée des élements colonnes first_name, last_name,
