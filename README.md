@@ -83,7 +83,7 @@ Swager UI
  Deuxième partie Front-End avec Android Studio
 La page présentation (page d'acceuil de l'application) fait dans le layout activity_main.xml
 ![page_acceuil](https://user-images.githubusercontent.com/111537634/228318863-3dfa7473-6afb-42ee-946b-0de8d69e9ff2.PNG)
-Cette page est constitué d'une image(logo_app.PNG) contenu dans le dossier drawable.
+<br>Cette page est constitué d'une image(logo_app.PNG) contenu dans le dossier drawable.</br>
 De plus il y'a un bouton  visualiser les cv  qui s'exécute grâce à un setOnClickListener et affiche la page des cv enregistrés dans la base de donnnées MySQL avec Spring Boot.
 
 La page affichant cette liste de cv est généré par les codes activity_list.xml et list_cv_item.xml.
