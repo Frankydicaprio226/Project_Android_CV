@@ -55,26 +55,26 @@ POSTMAN
 Structure de la table
 ![EmploiCV](https://user-images.githubusercontent.com/111537634/227801337-7b29ebdb-1b28-48d4-9313-e34e602b9dc7.PNG)
 
-<li>GET all</li>
+<br>GET all</br>
 ![All1](https://user-images.githubusercontent.com/111537634/227802517-4d173fa8-c6d1-4823-94d0-4408eeaf2e47.PNG)
 
 
 
-<li>GET FindById</li>
+<br>GET FindById</br>
 ![FindByID](https://user-images.githubusercontent.com/111537634/227802577-1bee1f21-eb96-400a-98de-188351ba6057.PNG)
 
 ![image](https://user-images.githubusercontent.com/111537634/227802615-cdd2cf21-38b5-439e-bb66-082776972ebd.png)
 
 
-<li>GET FindByEmailAndAdress</li>
+<br>GET FindByEmailAndAdress</br>
 ![FindByEmail Adress](https://user-images.githubusercontent.com/111537634/227801661-19e1fa48-acd4-4337-af1a-ba6166fcc931.PNG)
 ![image](https://user-images.githubusercontent.com/111537634/227801730-f9200bd7-8f3f-40a7-a4fe-e457bc186437.png)
 
-<li>GET Login</li>
+<br>GET Login</br>
 ![Login3](https://user-images.githubusercontent.com/111537634/227801786-36bfcd7f-6b71-4bb1-b679-8f4b54d7f130.PNG)
 ![Login2](https://user-images.githubusercontent.com/111537634/227801808-4178a335-ad73-4d16-89b4-c664f9ee6296.PNG)
 
-Swager UI
+<br>Swager UI</br>
 ![image](https://user-images.githubusercontent.com/111537634/227802291-8c2ef091-625e-4642-9ac6-41c533f195c1.png)
 
 
