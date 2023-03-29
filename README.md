@@ -88,7 +88,7 @@ Swager UI
 
 
 
-<br>
+
  Deuxième partie Front-End avec Android Studio
 La page présentation (page d'acceuil de l'application) fait dans le layout activity_main.xml
 ![page_acceuil](https://user-images.githubusercontent.com/111537634/228318863-3dfa7473-6afb-42ee-946b-0de8d69e9ff2.PNG)
