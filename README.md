@@ -78,6 +78,15 @@ Swager UI
 ![image](https://user-images.githubusercontent.com/111537634/227802291-8c2ef091-625e-4642-9ac6-41c533f195c1.png)
 
 
+![image](https://user-images.githubusercontent.com/111537634/228609389-ff214945-3dcf-401d-a3cb-3aabf7772c35.png)
+
+![image](https://user-images.githubusercontent.com/111537634/228609649-643b6e4c-8173-4db9-a54c-ce6a8156ed3f.png)
+
+![image](https://user-images.githubusercontent.com/111537634/228609897-4446eb1b-5a28-40dc-b49d-991ac63dcfa6.png)
+
+![image](https://user-images.githubusercontent.com/111537634/228610209-b8b399bb-e27b-4c7b-a027-e16fe7b3aed1.png)
+
+
 
 
  Deuxième partie Front-End avec Android Studio
