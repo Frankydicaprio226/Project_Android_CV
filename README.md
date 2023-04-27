@@ -100,4 +100,5 @@ La page affichant cette liste de cv est généré par les codes activity_list.xm
 ![llist_cv_item](https://user-images.githubusercontent.com/111537634/228321019-41b6d10e-59e9-4891-bd95-cbf481721428.PNG)
 
 
+![WhatsApp Image 2023-03-26 à 18 51 04](https://user-images.githubusercontent.com/111537634/234847696-2b7db1d4-ab7f-4b9b-9943-639666d4039f.jpg)
 
