@@ -19,7 +19,8 @@ Structure de la table
 
 cette table est coomposée des élements colonnes first_name, last_name,
 age, adresse, email, telephone, specialite, niveauEtude, experienceProfessionnelle
-![Table](https://user-images.githubusercontent.com/111537634/227775544-225b9cf5-edf4-4c1b-a012-51bedcd8ef07.PNG)
+![image](https://user-images.githubusercontent.com/111537634/234846965-1aee7299-7088-4d21-b0c1-a3b9d349f9e9.png)
+
 
 
 Nous pouvons ajouter un élément dans la table depuis le localhost par requête . Pour ce faire nous avons créer un dossier users dans lequel nous avons lister les webServices commme se connecter a la BD, ajouter, supprimer, mettre à jour,sélectionner
